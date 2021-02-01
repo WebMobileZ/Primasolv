@@ -1,0 +1,14 @@
+[31-Oct-2019 20:45:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function twentynineteen_the_posts_navigation() in /home2/webmobi5/public_html/primasolvstage/wp-content/themes/primasolv/archive.php:42
+Stack trace:
+#0 /home2/webmobi5/public_html/primasolvstage/wp-includes/template-loader.php(78): include()
+#1 /home2/webmobi5/public_html/primasolvstage/wp-blog-header.php(19): require_once('/home2/webmobi5...')
+#2 /home2/webmobi5/public_html/primasolvstage/index.php(17): require('/home2/webmobi5...')
+#3 {main}
+  thrown in /home2/webmobi5/public_html/primasolvstage/wp-content/themes/primasolv/archive.php on line 42
+[31-Oct-2019 20:45:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function twentynineteen_the_posts_navigation() in /home2/webmobi5/public_html/primasolvstage/wp-content/themes/primasolv/archive.php:42
+Stack trace:
+#0 /home2/webmobi5/public_html/primasolvstage/wp-includes/template-loader.php(78): include()
+#1 /home2/webmobi5/public_html/primasolvstage/wp-blog-header.php(19): require_once('/home2/webmobi5...')
+#2 /home2/webmobi5/public_html/primasolvstage/index.php(17): require('/home2/webmobi5...')
+#3 {main}
+  thrown in /home2/webmobi5/public_html/primasolvstage/wp-content/themes/primasolv/archive.php on line 42

@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/*
+Theme Name: PrimaSolv
+Theme URI: https://webmobilez.com/
+
+Version: 1.0
+Author: WebMobileZ
+Text Domain: primasolv
+
+*/
+
+.header .navbar-nav .nav-link {
+	padding: 6px 40px 7px 40px;
+	cursor: pointer !important;
+}
+@media screen and (max-width: 640px){
+	.pagecont.p-5{
+		padding: 1rem !important;
+	}
+}
